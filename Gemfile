@@ -20,7 +20,7 @@ gem 'bootstrap3-datetimepicker-rails', '~> 3.0.0.1'
 
 gem 'momentjs-rails', '~> 2.5.0'
 
-gem 'bootstrap-sass', '~> 3.1.1.1'
+gem 'bootstrap-sass', '~> 3.4.1'
 
 gem 'jquery-rails'
 
